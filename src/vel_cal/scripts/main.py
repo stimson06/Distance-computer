@@ -24,7 +24,7 @@ while not rospy.is_shutdown():
 	#class declaration
 	detect = pose_detection()
 	lateral_deviation, depth = detect.distances(vid)
-	print('[INFO] lateral_deviation (pixels) :',lateral_deviation,' Depth (cm) :', depth)
+	print('[INFO] lateral_deviation (cm) :',lateral_deviation,' Depth (cm) :', depth)
 	
 	x_distance = Int8()
 	y_distance = Int8()

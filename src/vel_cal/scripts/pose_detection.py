@@ -67,7 +67,7 @@ class pose_detection():
         Returns:
         Number pixels away from the center of the frame """
     
-        return (int(w/2)-pt[0])
+        return ((int(w/2)-pt[0])*0.026458333)# 1 pixel = 0.026458333 cm
     
     def Distance_finder(self, Focal_Length, real_shoulder_width, shoulder_width_in_frame):
         """ 
@@ -111,4 +111,4 @@ class pose_detection():
             	lateral_deviation= 0
             	depth = 0
  
-        return lateral_deviation, depth
+        return round(lateral_deviation,2), depth
