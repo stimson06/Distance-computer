@@ -1,0 +1,42 @@
+Script started on 2021-08-02 17:35:37+05:30 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal[00m$ cd .[Kscripts/
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ cleat
+cl
+Command 'cleat' not found, did you mean:
+
+  command 'claat' from snap claat (v0.7.1)
+  command 'cheat' from snap cheat (v4.2.1.build.1)
+  command 'clear' from deb ncurses-bin (6.2-0ubuntu2)
+
+See 'snap info <snapname>' for additional versions.
+
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ claer
+
+Command 'claer' not found, did you mean:
+
+  command 'clear' from deb ncurses-bin (6.2-0ubuntu2)
+
+Try: sudo apt install <deb name>
+
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ clear
+[H[2J[3J(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ btebv
+btebv: command not found
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ 
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ [H[2J(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ [H[2J(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/scripts[01;32mstimson@stimson[00m:[01;34m~/human_follow/src/vel_cal/scripts[00m$ ls
+[0m[01;32mpose_detection.py[0m
+(base) ]0;stimson@stimson: ~/human_follow/src/vel_cal/s

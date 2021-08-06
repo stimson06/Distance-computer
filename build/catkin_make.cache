@@ -1,0 +1,2 @@
+vel_cal
+-DCATKIN_DEVEL_PREFIX=/home/stimson/human_follow/devel -DCMAKE_INSTALL_PREFIX=/home/stimson/human_follow/install -G Unix Makefiles

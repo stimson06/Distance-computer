@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="pose_detection" pkg="vel_cal" type="main.py" output="screen" />
+</launch>

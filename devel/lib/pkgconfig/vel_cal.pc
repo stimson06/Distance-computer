@@ -1,0 +1,8 @@
+prefix=/home/stimson/human_follow/devel
+
+Name: vel_cal
+Description: Description of vel_cal
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
