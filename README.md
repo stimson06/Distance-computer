@@ -7,11 +7,11 @@ Marking is made with the help of coordiantes detected by Mediapipe. The intersec
 ![alt text](https://github.com/stimson06/Human-Follow/blob/master/pose_detection.png)
 
 # Computation of depth
-Using the focal length formula 
-```math
-(shoulder_width(original) X Focal length) / computed_shoulder_width 
-```
-shoulder_width(original) = physical measurement
+Using the focal length formula, \
+\
+![Depth](https://latex.codecogs.com/png.image?\dpi{110}%20\frac{shoulder_width(original)%20X%20Focal%20length}{computed_shoulder_width})
+
+shoulder_width(original) = physical measurement \
 computed_shoulder_width = Distance computed from the coordinates 11 & 12
 
 # Execution of code
@@ -29,7 +29,10 @@ Launch the file
 $ roslaunch vel_cal human_follow.launch
 ```
 
-# Known issues
+# Issues
+* Offset of 10 - 20 cm in depth and 0.5 - 1.5 cm in lateral deviation.
 * False calculation when shoulder of the person is not aligned parallel to the camera.
 
+#### ROS version: Noetic
 #### Tested on: ubuuntu 20.04 LTS
+
