@@ -17,7 +17,7 @@ computed_shoulder_width = Distance computed from the coordinates 11 & 12
 ## Execution of code
 clone the repository and move to the human follow directory
 ```
-$ cd Human-Follow
+$ cd Distance-Computer
 ```
 Build all the dependencies and source it
 ```
@@ -26,8 +26,14 @@ $ source ./devel/setup.bash
 ```
 Launch the file
 ```
-$ roslaunch vel_cal human_follow.launch
+$ roslaunch vel_cal compute-distance.launch
 ```
+# Behind the screen
+https://user-images.githubusercontent.com/44506282/132972245-5cf46b11-e8b2-4a63-a760-da2badf30c08.mp4
+
+# Actual output
+![disatance computer](https://user-images.githubusercontent.com/44506282/132972422-3e9d2c2c-cca3-4822-a37d-153daca0aba4.png)
+
 
 ## Issues
 * Offset of 10 - 20 cm in depth and 0.5 - 1.5 cm in lateral deviation.
