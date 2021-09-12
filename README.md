@@ -1,4 +1,4 @@
-# Human-Follow
+# Distance-Computer
 Dynamic tracking of human to compute the lateral_deviation and Depth with pose detection [Mediapipe](https://google.github.io/mediapipe/solutions/pose.html) and depth estimation [OpenCV](https://www.pyimagesearch.com/2015/01/19/find-distance-camera-objectmarker-using-python-opencv/) in the FOV of monocular camera.
   
 ## Computation of Lateral-Deviation
